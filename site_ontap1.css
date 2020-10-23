@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin: 0;
+	padding: 0;
+}
+header{
+	background-image: url("coffee-beans.jpg");
+}
+header h1{
+	color: aliceblue;
+	padding-left: 30px;
+	font-weight: bold;
+}
+header nav ul{
+	background-color:#AD2D2F;
+	padding: 10px;
+}
+header nav li{
+	color: aliceblue;
+}
+li{
+	display: inline;
+	font-weight: bold;
+}
+ul{
+	list-style-type: none;
+}
+h1{
+	color: #E4191C;
+	padding: 15px;
+	font-weight: bold;
+}
+aside{
+	float: right;
+	background-color: antiquewhite;
+	width: 280px;
+	padding: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+footer nav li{
+	color: #948586;
+	
+}
+.noidung{
+	width: 64%;
+	padding: 15px;
+	
+	
+}
+.noidung a{
+	color: #E81115;
+	
+}
+header nav ul{
+	padding: 10px 20px;
+}
+section .noidung p{
+	padding: 5px
+}

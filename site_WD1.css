@@ -5,19 +5,25 @@
   height: 80px;
   margin:66px 260px 0px 231px;
 }
-#menu{
-  width: 552px;
+#menu {
+  width: 1000px;
   height: 15px;
   margin: 18px 41px 2px 247px;
   padding: 5px 491px 4px 51px;
   font-family: Lato;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
-  line-height: 1;
-  letter-spacing: 0.80px;
+  line-height: 1.5;
+  letter-spacing: 1px;
   text-align:left;
   color: #232323;
+ padding-left: 300px
+}
+#menu ul li{
+	display:inline;
+	padding-right:30px;
+   font-weight: bold;
 }
 

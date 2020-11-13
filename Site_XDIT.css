@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+padding: 0;
+ margin: 0;
+}
+nav{
+ height: 50px;
+padding: 21px 0 0;
+background-color: #000000;
+}
+.logo{
+	width: 79px;
+  height: 27px;
+  margin: 0 582px 21px 150px;
+	float: left;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	opacity: 0.69;
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.69);
+margin-right: 29px;
+margin-top: 8px;
+}
+#banner{
+	height: 150vh;
+	background-image: url(image/image.png);
+}
+.logobanner{
+	width: 175px;
+	height: 60px;
+	margin: 110px 871px 33px 354px;
+	
+}	
+.textbanner{
+	margin: 33px 534px 36px 354px;
+  font-family: Raleway;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.hrbanner{
+	width: 74px;
+  margin: 36px 975px 30px 351px;
+}
+
+

@@ -59,5 +59,34 @@ margin-top: 8px;
 	width: 74px;
   margin: 36px 975px 30px 351px;
 }
+.pbanner{
+	width: 461px;
+  height: 61px;
+  margin: 30px 585px 44px 354px;
+  opacity: 0.8;
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+.btbanner{
+	border: 2px solid #ffffff;
+    background-color: transparent;
+	color:aliceblue;
+	width: 135px;
+  height: 42px;
+  margin: 44px 910px 0 355px;
+  padding: 15px 32px 14px;
+}
+.canhletraibanner{
+	margin-left: 354px;
+	
+	
+}
 
 

@@ -1,0 +1,75 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+/* CSS Document */
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+nav{
+	height: 70px;
+	padding-top: 30px;
+}
+#logo{
+	width: 50%;
+	float: left;
+}
+.layer-0{
+	width: 229px;
+  height: 38px;
+  margin: 0 722px 102px 0;
+  text-shadow: -0.3px 5px 13px rgba(0, 0, 0, 0.17);
+}
+#menu{
+	width: 45%;
+	padding-right: 46px;
+	float: right;
+}
+#menu ul{
+	list-style-type: none;
+	padding-top: 25px;
+}
+#menu ul li{
+	width: 45px;
+  height: 18px;
+  margin: 13px 15px 20px 5px;
+  font-family: PlayfairDisplay;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.89;
+  letter-spacing: 0.63px;
+  text-align: center;
+  color: #222222;
+  display: inline;
+}
+.boxContainer{
+	margin: auto;
+	float: right;
+	position: relative;
+	width: 250px;
+	height: 42px;
+	border: 2px solid #D5D5D5;
+	padding: 0px 10px;
+	border-radius: 50px;
+}
+.elementsContainer{
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+}
+.search{
+	border: none;
+	height: 100%;
+	width: 100%;
+	padding: 0px 5px;
+}
+.fa-search{
+	color: #CBCACA;
+}
+
+	
+
+
+
+ 

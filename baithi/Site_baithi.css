@@ -6,34 +6,40 @@
 	padding: 0 auto;
 }
 nav{
-	height: 70px;
-	padding-top: 30px;
+	height: 15%;
+	padding-top: 20px;
+	width: 100%
 }
 #logo{
-	width: 50%;
+	width: 10%;
 	float: left;
 }
 .layer-0{
-	width: 229px;
-  height: 38px;
-  margin: 0 722px 102px 0;
+  width: 159px;
+  height:40px;
   text-shadow: -0.3px 5px 13px rgba(0, 0, 0, 0.17);
+  padding-left: 40px;
+  padding: 21px 150px;
 }
 #menu{
-	width: 45%;
-	padding-right: 46px;
-	float: right;
+	width: 60%;
+	overflow: auto;
+	padding-right: 29px;
+	
 }
 #menu ul{
 	list-style-type: none;
-	padding-top: 25px;
+	padding-top: 2px
+}
+#menu li{
+	float: left;
 }
 #menu ul li{
-	width: 45px;
+	width:100px;
   height: 18px;
-  margin: 13px 15px 20px 5px;
+  margin: 19px 15px 20px 5px;
   font-family: PlayfairDisplay;
-  font-size: 15px;
+  font-size: 10px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -47,10 +53,10 @@ nav{
 	margin: auto;
 	float: right;
 	position: relative;
-	width: 250px;
-	height: 42px;
+	width: 140px;
+	height: 29px;
 	border: 2px solid #D5D5D5;
-	padding: 0px 10px;
+	padding: 0px 6px;
 	border-radius: 50px;
 }
 .elementsContainer{
@@ -67,6 +73,154 @@ nav{
 .fa-search{
 	color: #CBCACA;
 }
+.hinhbentrai {
+  width: 400.1px;
+  height: 400.9px;
+  float: left;
+}
+.hinhbentrai img{
+	width: 480px;
+	float: left;
+	padding-top: 10px;
+	padding-right: 115px;
+	padding-left: 100px;
+}
+.chubenphai{
+	padding: 0px 10px 323px 0px;
+	margin-top:10px;
+	float: right;
+	width: 500.1px;
+    height: 500.9px;
+}
+.chubenphai h5{
+  margin: 250px 229px 30px 72px;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.84px;
+  text-align: left;
+  color: #734df2;
+}
+.chubenphai h3{
+	margin: 30px 196px 52px 71px;
+
+	font-size: 35px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: 1.2px;
+  text-align: left;
+  color: #333333;
+}
+.chubenphai p{
+font-family: PlayfairDisplay;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: 0.84px;
+  text-align: left;
+  color: #444444;
+	margin: 50px 21px 65px 73px;
+}
+.chubenphai h6{
+	margin: 65px 104px 0 72px;
+  font-family: Raleway;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.84px;
+  text-align: left;
+  color: #ababba;
+}
+#gioithieu{
+	height: 550px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#why{
+	height: 790px;
+	background-color:#F4F0F0;
+	justify-content: center;
+}
+#why h2{
+	font-size: 36px;
+	padding-top: 15px;
+	text-align: center;
+  width: 253px;
+  height: 32px;
+  margin:60px auto;
+  font-family: PlayfairDisplay;
+
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.4px;
+
+  color: #222222;
+
+}
+#why hr{
+	background-color:blueviolet;
+	border: none;
+	height: 2px;
+	width: 65px;
+	margin: 30px auto;
+	
+}
+#why p{
+	text-align: center;
+	line-height: 1.43;
+	padding-bottom: 80px;
+	
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
+.cot img{
+	width: 150px;
+	padding-bottom: 30px;
+  height: 89px;
+  margin: 0 85px 33px 84px;
+  box-shadow: -0.3px 5px 29px 0 rgba(0, 0, 0, 0.11);
+  background-color: #b9b9b9;
+}
+.cot h3{
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 25px;
+	margin: 30px auto
+		
+}
+.cot p{
+	font-size: 14px;
+	line-height: 1.43;
+	color: #D1D1D1;
+	width: 130px;
+	
+}
+.container .cot hr{
+	color:#EFECEC;
+}
+.logongang{
+	width: 100%;
+	padding: 30px 80px;
+  height: 125px;
+	display: inline;
+}
+*{
+	
+}
+
+
 
 	
 
